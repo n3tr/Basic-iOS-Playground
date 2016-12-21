@@ -5,7 +5,9 @@
 var str: String = "Hello, Playground"
 var nullableStr: String?
 
-//nullableStr = "Apple?!?"
+
+// nullableStr = "Apple?!?"
+
 
 if let unwrappedString = nullableStr {
     str = unwrappedString

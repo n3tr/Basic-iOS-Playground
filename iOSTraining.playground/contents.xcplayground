@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
     <pages>
-        <page name='_01.3-OptionalType'/>
+        <page name='01-3-OptionalType'/>
         <page name='00-Intro'/>
         <page name='01-0-Swift-Basic'/>
         <page name='01-1-Variables and Type'/>
@@ -18,7 +18,9 @@
         <page name='03-02-Closure'/>
         <page name='04-Classes'/>
         <page name='05-Struct'/>
-        <page name='05.1-Classes-vs-struct'/>
-        <page name='05.2-Instance-classes'/>
+        <page name='05.1-Instance-classes'/>
+        <page name='05.2-Instance-struct'/>
+        <page name='05.3-Classes-vs-struct'/>
+        <page name='06-Protocol'/>
     </pages>
 </playground>
