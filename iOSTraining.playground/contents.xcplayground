@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='_01.3-OptionalType'/>
+        <page name='00-Intro'/>
+        <page name='01-0-Swift-Basic'/>
+        <page name='01-1-Variables and Type'/>
+        <page name='01-2-1-Type-number-bool'/>
+        <page name='01-2-2-Type-string'/>
+        <page name='01-2-3-Array'/>
+        <page name='01-2-4-Dictionary'/>
+        <page name='01-2-5-Enum'/>
+        <page name='02-0-Control Flow'/>
+        <page name='02-1-if-else'/>
+        <page name='02-2-for-in-array'/>
+        <page name='02-3-for-in-dict'/>
+        <page name='03-01-Function'/>
+        <page name='03-02-Closure'/>
+    </pages>
+</playground>
