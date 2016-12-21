@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
     <pages>
         <page name='_01.3-OptionalType'/>
         <page name='00-Intro'/>
@@ -16,5 +16,9 @@
         <page name='02-3-for-in-dict'/>
         <page name='03-01-Function'/>
         <page name='03-02-Closure'/>
+        <page name='04-Classes'/>
+        <page name='05-Struct'/>
+        <page name='05.1-Classes-vs-struct'/>
+        <page name='05.2-Instance-classes'/>
     </pages>
 </playground>
